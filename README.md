@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MrCommandBlock
 - 👀 I’m interested in coding Discord bots
-- 🌱 I’m currently learning Python, Node.js, Javascript, HTML, and CSS
-- 💞️ I’m looking to collaborate on a Discord bot
+- 🌱 I’m currently learning Discord.js
+- 💞️ Collllll dbbbb
 - 📫 How to reach me DM me on Discord at MrCommandBlock#9456
 
 <!---
